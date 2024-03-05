@@ -7,11 +7,11 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "tang-yetong": "Tang Yetong",
+        "leong-heng-yew": "Leong Heng Yew",
+        "yee-jun-hyeok-bryan": "Yee Jun Hyeok Bryan",
+        "muhammad-rizki-bayuaji": "Muhammad Rizki Bayuaji",
+        "guk-yi-siong": "Guk Yi Siong"
       },
       "headingKeywords": {}
     },
@@ -131,7 +131,31 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "assetbook-3": "AssetBook-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/aureliony.md",
+      "title": "Leong Heng Yew's Project Portfolio Page",
+      "headings": {
+        "project-assetbook3": "Project: AssetBook3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/bryanyee33.md",
+      "title": "Bryan Yee's Project Portfolio Page",
+      "headings": {
+        "project-assetbook-3": "Project: AssetBook-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/darkvoid32.md",
+      "title": "Tang Yetong's Project Portfolio Page",
+      "headings": {
+        "project-assetbook3": "Project: AssetBook3"
       },
       "headingKeywords": {}
     },
@@ -140,6 +164,22 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/rizkidelta.md",
+      "title": "Muhammad Rizki Bayuaji's Project Portfolio Page",
+      "headings": {
+        "project-assetbook3": "Project: AssetBook3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/yisiox.md",
+      "title": "Guk Yi Siong's Project Portfolio Page",
+      "headings": {
+        "project-assetbook3": "Project: AssetBook3"
       },
       "headingKeywords": {}
     },
