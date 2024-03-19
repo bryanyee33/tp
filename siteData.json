@@ -107,16 +107,14 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "assetbook-3-user-guide": "AssetBook-3 User Guide",
         "quick-start": "Quick start",
         "features": "Features",
-        "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",
-        "listing-all-persons-list": "Listing all persons : list",
-        "editing-a-person-edit": "Editing a person : edit",
-        "locating-persons-by-name-find": "Locating persons by name: find",
-        "deleting-a-person-delete": "Deleting a person : delete",
-        "clearing-all-entries-clear": "Clearing all entries : clear",
+        "delete-a-contact-or-asset-delete": "Delete a contact or asset : delete",
+        "editing-a-contact-edit": "Editing a contact : edit",
+        "editing-an-asset-edita": "Editing an asset: edita",
+        "search-search": "Search : search",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
@@ -156,14 +154,6 @@
       "title": "Tang Yetong's Project Portfolio Page",
       "headings": {
         "project-assetbook3": "Project: AssetBook3"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
-      "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
       "headingKeywords": {}
     },

@@ -83,7 +83,7 @@ with(this){return _c('p',[_v("Your code should look something like "),_c('a',{at
 with(this){return _c('h3',{attrs:{"id":"parse-user-input"}},[_v("Parse user input"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#parse-user-input","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Create a "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("RemarkCommandParser")]),_v(" class in the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("seedu.address.logic.parser")]),_v(" package. The class must extend the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Parser")]),_v(" interface.")])}
+with(this){return _c('p',[_v("Create a "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("RemarkCommandParser")]),_v(" class in the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("seedu.address.logic.util")]),_v(" package. The class must extend the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Parser")]),_v(" interface.")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Thankfully, "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("ArgumentTokenizer#tokenize()")]),_v(" makes it trivial to parse user input. Let’s take a look at the JavaDoc provided for the function to understand what it does.")])}
@@ -290,6 +290,6 @@ with(this){return _c('h2',{attrs:{"id":"conclusion"}},[_v("Conclusion"),_c('a',{
 with(this){return _c('p',[_v("This concludes the tutorial for adding a new "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Command")]),_v(" to AddressBook.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.3.0")]),_v(", generated on Tue, 5 Mar 2024, 13:18:56 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.3.0")]),_v(", generated on Tue, 19 Mar 2024, 15:53:31 GMT+8]")])])])}
 }];
   
